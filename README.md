@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
- <img width="100%" src="https://github.com/linzowo/linzowo/blob/main/static/seeyou3.jpg?raw=true" alt="Hello world">
+ <img width="100%" src="https://linzowo.github.io/images/seeyou3.jpg" onerror="onerror=null;src='https://linzowo.gitee.io/images/seeyou3.jpg'" alt="Hello Cowboy">
 </p>
 
 <p align="center"> 
